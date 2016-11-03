@@ -16,5 +16,6 @@
 <p>im trying to learn html the right way, but i dont think its working. im adding redundant shit
 and stuff.ive only just started because of a<br>chance of a lifetime and i am willing to take it!</p>
 <a href="ir.hesperi.net">for the win!</a>
+<tag>random tag</tag>
 </body>
 </html>
