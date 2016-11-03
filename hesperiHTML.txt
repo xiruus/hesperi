@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>html practice n shit</title>
+     </head>
+<body> 
+ <i>italics</i>
+<em>emphasis</em>
+ <img src="samael-lilith.png" alt="ir.hesperi.net"  width="104" height="142">
+<h1>pointless heading1</h1>
+ <h2>pointless heading2</h2>
+<h3>pointless heading3</h3>
+ <h4>pointless heading4</h4>
+<h5>pointless heading5</h5>
+ <h6>pointless heading6</h6>
+<p>im trying to learn html the right way, but i dont think its working. im adding redundant shit
+and stuff.ive only just started because of a<br>chance of a lifetime and i am willing to take it!</p>
+<a href="ir.hesperi.net">for the win!</a>
+</body>
+</html>
