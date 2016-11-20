@@ -12,7 +12,7 @@
 <em>emphasis</em>
 im working on <a href="https://github.com/LadyNymph/hesperi">this</a>
 shit. 
-  <img src="samael-lilith.png" alt="ir.hesperi.net"  width="104" height="142">
+  <img src="samael-lilith.png" alt="ir.hesperi.net"  width="104" height="142" />
 
                           <h1>PointlessHeading1</h1>
 
